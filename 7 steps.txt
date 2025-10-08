@@ -1,0 +1,29 @@
+1. Define
+  1.1. Who the website is for?
+  1.2. What the website is for?
+  1.3. Target audience (optional)
+2. Plan
+  2.1. Plan and gather website content.
+  2.2. Plan sitemap if site is big.
+  2.3. Plan sections based on content.
+  2.4. Define website personality.
+3. Sketch
+  3.1. Think about components and how will they lay out.
+  3.2. Sketch out the website.
+4. Design and Build
+  4.1. Lay out components.
+  4.2. Design the visual style based on website personality.
+5. Test and Optimize
+  5.1. Make sure the website is working on all the major browsers.
+  5.2. Test the website on mobile devices.
+  5.3. Optimize all images.
+  5.4. Optimize the colors and contrast.
+  5.5. Run Lighthouse performance test in chrome.
+  5.6. Think about SEO.
+6. Launch
+  6.1. Launch the website.
+7. Maintain and Update
+  7.1. Maintain the website.
+  7.2. Update the website.
+  7.3. Connect analytics.
+  7.4. Use blog and update it regularly.
